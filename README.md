@@ -25,7 +25,7 @@
 
 <h3 align="center">Thank you!</h3>
 <p align="center">
-  <img src="https://media.tenor.com/images/d54c4210cd6e0b524558b39b5c0186f3/raw" alt="Thank You GIF" width="500"/>
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" alt="Thank You GIF" width="500"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madikyzys&show_icons=true&locale=en&layout=compact" alt="madikyzys" /></p>
