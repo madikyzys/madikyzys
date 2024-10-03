@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aqnur</h1>
 <h3 align="center">Welcome to my GitHub profile! I’m Aqnur Yeren, a dedicated Flutter developer committed to creating intuitive, efficient, and scalable mobile applications. Currently, I’m enhancing my skills in Flutter and Dart while pursuing a degree in Computer Science at Jambyl Innovation High College.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madikyzys&label=Profile%20views&color=0e75b6&style=flat" alt="madikyzys" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madikyzys" alt="madikyzys" /></a> </p>
-
 - 📫 How to reach me: **aknur.yerenn7@gmail.com**
 
 - ⚡ Fun fact: **I enjoy traveling and exploring new cultures. I like to listen to music while coding.**
